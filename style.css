@@ -12,6 +12,7 @@
     width: 100%;
     height: auto; }
     .container .photo img {
+      border: 3px solid black;
       display: block;
       margin-left: auto;
       margin-right: auto; }
